@@ -47,6 +47,7 @@ Either the information is coming from one of the plugin user (through direct com
 | Celiane with Netatmo Plug | Switch and Power Meter | It might happend the Power Meter doesn't work. In that case it is because the device requirers firmware update. To do so you need to have at your disposal the Legrand gateway | Tested | 2.4.0 |
 | Celiane with Netatmo switch/Dimmer W/O neutre | Switch, Dimmmer | Dimmer not working, need update firmware ? | Tested | 2.4.0 |
 
+
 ### OSRAM
 | Device/Type | Domoticz usage | Description | Status | Plugin Version |
 | ----------- | -------------- | ----------- | ------ | -------------- |
@@ -102,3 +103,9 @@ Either the information is coming from one of the plugin user (through direct com
 | Vibration Sensor | Switch Selector | | Fully operationnal | 4.1.0 |
 | Wall Double Switch QBKG12LM | Switch, Power meter | 2 switches with Power meter n each line | Fully operationnal | 3.1.0  |
 | Window Door switch | Window Door switch | Switch turns on when the door is open | Fully operationnal | 2.4.0 |
+
+### Zigbee On/Off Controller (No specificbrand)
+| Device/Type | Domoticz usage | Description | Status | Plugin Version |
+| ----------- | -------------- | ----------- | ------ | -------------- |
+| Smart Zigbee Switch| Wired (On/off) (like Sonoff basic but then with Zigbee | Switch On/Off 
+| Fully Operational | Only tested on 4.1 might be backwards compatible.|
